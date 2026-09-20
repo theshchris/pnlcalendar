@@ -2,11 +2,6 @@
 
 [English](#english) · [简体中文](#简体中文) · [Español](#español) · [日本語](#日本語)
 
-<p align="center">
-  <img src="ios/AppStoreScreenshots/iPhone-6.5/en/01-day-august-2026.png" width="220" alt="English daily calendar">
-  <img src="ios/AppStoreScreenshots/iPhone-6.5/zh-Hans/03-year-2026.png" width="220" alt="中文年度视图">
-  <img src="ios/AppStoreScreenshots/iPhone-6.5/ja/04-settings.png" width="220" alt="日本語設定画面">
-</p>
 
 ## Support
 
