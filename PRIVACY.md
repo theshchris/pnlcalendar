@@ -89,9 +89,10 @@ Material changes will be published in this file with an updated effective date.
 
 ### 8. Contact
 
-For privacy questions, use the support link on the App Store product page or
-open a [GitHub Issue](../../issues). Do not include Flex Tokens, Query IDs,
-account identifiers, balances, positions, or report data in a public issue.
+For privacy questions, email [shchris2019@gmail.com](mailto:shchris2019@gmail.com),
+use the support link on the App Store product page, or open a
+[GitHub Issue](../../issues). Do not include Flex Tokens, Query IDs, account
+identifiers, balances, positions, or report data in a public issue.
 
 ## 简体中文
 
@@ -161,9 +162,10 @@ Interactive Brokers。
 
 ### 8. 联系方式
 
-如有隐私问题，请使用 App Store 产品页面中的支持链接，或创建
-[GitHub Issue](../../issues)。请勿在公开问题中提供 Flex Token、Query ID、账户标识、
-余额、持仓或报表数据。
+如有隐私问题，请发送邮件至
+[shchris2019@gmail.com](mailto:shchris2019@gmail.com)、使用 App Store 产品页面中的
+支持链接，或创建 [GitHub Issue](../../issues)。请勿在公开问题中提供 Flex Token、
+Query ID、账户标识、余额、持仓或报表数据。
 
 ## Español
 
@@ -244,10 +246,12 @@ en vigor actualizada.
 
 ### 8. Contacto
 
-Para cuestiones de privacidad, utiliza el enlace de soporte de la página del
-producto en App Store o abre una [incidencia en GitHub](../../issues). No incluyas
-Flex Tokens, Query IDs, identificadores de cuenta, saldos, posiciones ni datos de
-informes en una incidencia pública.
+Para cuestiones de privacidad, escribe a
+[shchris2019@gmail.com](mailto:shchris2019@gmail.com), utiliza el enlace de soporte
+de la página del producto en App Store o abre una
+[incidencia en GitHub](../../issues). No incluyas Flex Tokens, Query IDs,
+identificadores de cuenta, saldos, posiciones ni datos de informes en una
+incidencia pública.
 
 ## 日本語
 
@@ -319,6 +323,8 @@ PnL Calendarは、IBKRへのリクエストにHTTPS、認証情報の保存にiO
 
 ### 8. お問い合わせ
 
-プライバシーに関するお問い合わせは、App Store製品ページのサポートリンク、または
-[GitHub Issues](../../issues)をご利用ください。公開Issueには、Flex Token、Query ID、
-口座識別子、残高、ポジション、レポートデータを記載しないでください。
+プライバシーに関するお問い合わせは、
+[shchris2019@gmail.com](mailto:shchris2019@gmail.com)、App Store製品ページの
+サポートリンク、または[GitHub Issues](../../issues)をご利用ください。公開Issueには、
+Flex Token、Query ID、口座識別子、残高、ポジション、レポートデータを記載しないで
+ください。
